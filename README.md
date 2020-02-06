@@ -1,6 +1,8 @@
 # MRCVolume viewer
 Preview mrc volume in a simple viewer!
 
+![](https://github.com/dzyla/MRCVolume_viewer/blob/master/7OwD44WAc61.gif)
+
 ## Requirements
 Python 3+ / numpy / vtkplotter / mrcfile / easygui (optional)
 
